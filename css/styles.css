@@ -1,0 +1,45 @@
+body {
+    background-color:#F0ECE3;
+    margin: 10%;
+    position: absolute;
+    text-align: center;
+    line-height: 2em;
+    font-size: 1.1em;
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1{
+    color: #A68DAD;
+    font-size: 3em;
+  }
+
+  h3{
+    color: #A68DAD;
+    text-decoration: underline solid grey;
+  }
+ 
+  li{
+    list-style: none;
+  }
+
+  .heading-title{
+    font-size: 1.2em;
+  }
+
+  .work-table{
+    margin: auto;
+    text-align: left;
+  }
+
+  .skills-table{
+    margin: auto;
+    text-align: left;
+  }
